@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Storage Management</string>
+    <string name="load_media">Load media</string>
+    <string name="take_media">Take pic</string>
+    <string name="menu_settings">Settings</string>
+    <string name="action_settings">Settings</string>
+    <string name="show_take_pic_key">show_take_pic</string>
+    <string name="summaryOff_hidden">Hidden</string>
+    <string name="summaryOn_shown">Shown</string>
+    <string name="show_take_pic">show take pic</string>
+</resources>
+
